@@ -56,7 +56,7 @@ Input Image → HPF Filter → EfficientNet-B2 → Classification
 ├── main.py                   # Main GUI application
 ├── README.md
 ⚙️ Installation
-git clone https://github.com/your-username/steganography-detector.git
+git clone https://github.com/radhikachopra26/Hide
 cd steganography-detector
 
 pip install torch torchvision pillow
